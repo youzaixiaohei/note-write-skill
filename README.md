@@ -1,2 +1,2 @@
 # note-write-skill
-这是一个写社群微信笔记的项目，里面包括了社群笔记，品牌介绍，产品介绍，情感输出等类型的内容，让我们写文案的时候更加真实精准，减少修改
+This is a project for writing WeChat community notes, which includes various types of content such as community notes, brand introductions, product descriptions, and emotional expression. It helps us write copy that is more authentic and precise, reducing the need for revisions.
